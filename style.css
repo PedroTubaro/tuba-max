@@ -1,0 +1,82 @@
+body {
+    color: rgb(29, 187, 179);
+    background-color: black;
+    font-family: "Lacquer", system-ui;
+    margin-bottom: 5%;
+}
+
+
+header {
+
+    border-bottom: solid 2px rgb(161, 146, 11);
+    padding: 20px;
+    font-size: 30px;
+}
+
+iframe{
+
+    border: solid 3px rgba(6, 24, 59, 1 ) ;
+}
+
+
+.os{
+
+background: rgba(6, 24, 59, 1);
+
+padding-bottom: 69px;
+padding-top: 69px;
+display: flex;
+justify-content: center;
+}
+.bah{
+
+margin-right: 5%;
+
+
+}
+
+h1{
+
+font-size: 30px;
+
+}
+p {
+
+font-size: 30px;
+color:antiquewhite
+
+}
+
+img{
+
+
+
+}
+h2 {color:goldenrod}
+
+.guri{
+
+display: flex;
+overflow-x: auto;
+gap: 2%;
+
+margin-top: 5%;
+
+}
+.gremio{
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.guri img{
+    opacity:0.5;
+    height: 190px;
+}
+
+    .guri img:hover {
+
+        opacity: 1.0;
+        border: 2px solid rebeccapurple
+    }
+
